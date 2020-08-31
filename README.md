@@ -7,3 +7,13 @@ Some examples of the Flutter Driver test.
 * [flutter_app](./flutter_app/)
 
 * [scrollable_app](./scrollable_app/)
+
+
+### run test
+
+Run the Flutter Driver test:
+
+```
+> cd flutter_app
+> flutter drive --target=./test_driver/app.dart
+```
